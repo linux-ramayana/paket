@@ -1,10 +1,10 @@
-BlankOn Repository - Total Packages and Sizes
+Linux Ramayana Repository - Total Packages and Sizes
 ============================================
 
-This Git repository contains scripts I use to gather and visualize the BlankOn
+This Git repository contains scripts I use to gather and visualize the Linux Ramayana
 repositories in terms of total packages and their total size.
 
-Check the GitHub page for the result - <http://arsip.blankonlinux.or.id>.
+Check the GitHub page for the result - <http://linux-ramayana.github.io/repo>.
 
 How?
 ----
